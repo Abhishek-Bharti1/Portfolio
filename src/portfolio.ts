@@ -1090,34 +1090,32 @@ const project = {
   "data": [
     {
       "id": "M1DEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name": "Snapchat Clone",
-      "createdAt": "2023-03",
-      "url": "https://github.com/Abhishek-Bharti1/snapchat-clone",
+      "name": "Whisper_ai_assistant",
+      "createdAt": "2024-03",
+      "url": "https://github.com/Abhishek-Bharti1/whisper-ai-assistant",
       "description": [
-        "⚡This is Social media website where users can post pics with a caption as well as like other people posts as well user can delete his/her own posts.",
-        "⚡Login and Signup via the firebase Authentication system",
-        "⚡User can click pics and save it in database. ",
-        "⚡This was a solo project that was completed in 7 days. "
+        "⚡This project is a cutting-edge web application built with Next.js, utilizing Azure OpenAI and Whisper AI for advanced speech recognition and natural language processing. Deployed on Vercel for seamless scalability, the app also features a modern UI powered by Tailwind CSS and Shadcn/ui, ensuring a responsive and visually appealing user experience. The integration of AI-driven transcription and language models demonstrates a fusion of innovation and practical application in speech-to-text technology.",
+        "⚡This was a solo project that was completed in 2 days. "
       ],
       "isFork": false,
-      "link": "https://snapchat-clone-f9bc5.web.app/",
+      "link": "https://whisper-ai-assistant.vercel.app/",
       "languages": [
         {
-          "name": "HTML",
-          "iconifyClass": "html.png"
+          "name": "NextJs",
+          "iconifyClass": "nextjs.png"
         },
         {
-          "name": "Webpack 5",
-          "iconifyClass": "webpack.png"
+          "name": "TypeScript",
+          "iconifyClass": "typescript.png"
         },
 
         {
-          "name": "file loader",
-          "iconifyClass": "fileloader.png"
+          "name": "Azure",
+          "iconifyClass": "azure.png"
         },
         {
-          "name": "JavaScript",
-          "iconifyClass": "javascript.png"
+          "name": "TailwindCSS",
+          "iconifyClass": "tailwindcss.png"
         },
         {
           "name": "Git",
@@ -1130,8 +1128,8 @@ const project = {
         },
 
         {
-          "name": "babel",
-          "iconifyClass": "babel.png"
+          "name": "shadcn",
+          "iconifyClass": "shadcn.png"
         },
 
       ]
